@@ -42,3 +42,4 @@ def load_model():
         'E:\\AG-News-Text-Classification-BERT-Prod-Code\\output\\bert-ag-news-predictor')
     print("Bert model loaded successfully: \n", bert_predictor.get_classes())
     return bert_predictor
+
