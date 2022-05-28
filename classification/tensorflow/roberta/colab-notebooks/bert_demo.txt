@@ -1,1 +1,6 @@
 
+eg:
+
+Tom was hungry. He went to the grocery to buy food.
+
+[CLS] [Tom] [was] [MASK] [SEP] [He] [MASK] [to] [the] [grocery] [to] [MASK] [food] [SEP]
