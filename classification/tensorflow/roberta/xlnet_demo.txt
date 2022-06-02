@@ -1,1 +1,15 @@
 
+Auto Regressive Models:
+
+In AR language model, we are trying to access the probability distribution of sentences, 
+which is naturally factorized over a product of the words,
+where the probability of each word is only dependent on the word before it.
+
+
+I want to go to New York
+
+[I want] -> to
+[I want to] -> go
+[I want to go] -> to
+[I want to go] ->New York
+
