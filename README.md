@@ -1,2 +1,2 @@
 # transformers-in-nlp
-Exploring Transformer architecture and models for downstream NLP tasks like classification, sentiment analysis, NER..
+Exploring Transformer architecture and multiple LLM models from HuggingFace for downstream NLP tasks like classification, sentiment analysis, NER..
